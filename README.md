@@ -33,8 +33,8 @@ Download the following datasets and unzip them into `data` folder
 
 ## Download model
 
-- If you want to test the performance of F3Net, please download the [model](https://drive.google.com/open?id=1zKogcTuA9JA5v7PfnArVyTPTaOw1ZqDG) into `out` folder
-- If you want to train your own model, please download the [pretrained model]('https://download.pytorch.org/models/resnet50-19c8e357.pth') into `res` folder
+- If you want to test the performance of F3Net, please download the [model](https://drive.google.com/file/d/1jcsmxZHL6DGwDplLp93H4VeN2ZjqBsOF/view?usp=sharing) into `out` folder
+- If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `res` folder
 
 ## Training
 
@@ -56,8 +56,8 @@ Download the following datasets and unzip them into `data` folder
 - After testing, saliency maps of `PASCAL-S`, `ECSSD`, `HKU-IS`, `DUT-OMRON`, `DUTS-TE` will be saved in `eval/F3Net/` folder.
 
 ## Saliency maps & Trained model
-- [saliency maps](https://drive.google.com/file/d/1FfZtzfSX6-hlwar4yJYLuGogGbLW9sYe/view?usp=sharing)
-- [trained model](https://drive.google.com/file/d/1jcsmxZHL6DGwDplLp93H4VeN2ZjqBsOF/view?usp=sharing)
+- saliency maps: [Baidu](https://pan.baidu.com/s/1ZIfZ90FoqlrSdoD31Lul5g) [Google](https://drive.google.com/file/d/1FfZtzfSX6-hlwar4yJYLuGogGbLW9sYe/view?usp=sharing)
+- trained model: [Baidu](https://pan.baidu.com/s/1qlqiCG0d9o2wH8ddeVJsSQ) [Google](https://drive.google.com/file/d/1jcsmxZHL6DGwDplLp93H4VeN2ZjqBsOF/view?usp=sharing)
 
 
 ## Evaluation
@@ -75,7 +75,7 @@ Download the following datasets and unzip them into `data` folder
 
 ## Citation
 - If you find this work is helpful, please cite our paper
-```shell
+```
 @inproceedings{F3Net,
   title     = {F3Net: Fusion, Feedback and Focus for Salient Object Detection},
   author    = {Jun Wei, Shuhui Wang, Qingming Huang},
